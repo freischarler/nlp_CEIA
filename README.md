@@ -16,10 +16,10 @@ Este repositorio contiene el desarrollo de **cuatro desafíos** enfocados en pro
 
 ## Desafío 2: Creación de Word Embeddings con Canciones
 
-- **Objetivo**: Generar embeddings de palabras utilizando el contexto de las canciones de bandas musicales.  
+- **Objetivo**: Generar embeddings de palabras utilizando el contexto de la biblia.  
 - **Resumen**:
-  - Utilizar el corpus de letras de canciones para entrenar modelos que representen las palabras como vectores.
-  - Capturar cómo cada banda usa el lenguaje en sus canciones para analizar patrones contextuales.
+  - Utilizar el corpus de todo el texto de la biblia para entrenar modelos que representen las palabras como vectores.
+  - Capturar el lenguaje en la biblia para analizar patrones contextuales.
 
 ---
 
